@@ -1,2 +1,2 @@
 # hello-world
-A short description
+Here's some text for you to read
